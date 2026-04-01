@@ -11,7 +11,7 @@ Application of Bayesian models (HMSC) for the joint distribution of North Sea ma
 
 ## 🌊 Introduction
 
-This project builds on the methodological framework presented in Ovaskainen, O. & Abrego, N. (2020). *Joint Species Distribution Modelling: With Applications in R*. Cambridge University Press., applying advanced hierarchical Bayesian models (HMSC) to real-world ecological data.
+This project builds on the methodological framework presented in Ovaskainen, O. & Abrego, N. (2020). *Joint Species Distribution Modelling: With Applications in R*. Cambridge University Press., applying advanced hierarchical Bayesian models (HMSC) to real-world ecological data. 
 
 The analysis is based on data from the GEANS project, which focuses on assessing the quality of seafloor habitats—an essential indicator of marine ecosystem health. GEANS promotes the use of fast, accurate, and cost-effective DNA-based approaches, enabling more efficient and standardized environmental assessments across the North Sea [GEANS library](https://portal.boldsystems.org/recordset/DS-GEANS1).
 
