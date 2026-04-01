@@ -3,29 +3,11 @@ Application of Bayesian models (HMSC) for the joint distribution of North Sea ma
 
 ## 🛠️ Keywords & Skills
 
-**Keywords:** `Joint Species Distribution` `Bayesian Modeling` `HMSC` `Macrobenthos` `North Sea` `Species Occurrence` `Latent Factors` `Residual Associations`
-
 **Skills Applied:**  
-- `Bayesian theory and statistical modeling`  
-- `Species distribution modeling (HMSC)`  
-- `R programming` `dplyr` `tidyr`  
-- `Spatial analysis` `sf` `raster` `ggplot2`  
-- `Visualization` `ggplot2` `ggrepel`  
-- `Model evaluation` `coda` `Hmsc`  
-- `Environmental data handling` `EMODnet datasets`  
-- `Functional traits` `Phylogenetic analysis`  
+`Bayesian statistical modeling` `Species distribution modeling (HMSC)` `R programming` `Spatial analysis` `Generalized Linear Models`
 
 **Main Libraries Used in R:**  
-- `Hmsc`  
-- `sf`  
-- `dplyr` `tidyr`  
-- `ggplot2` `ggrepel`  
-- `coda`  
-- `ape`  
-- `reshape2`  
-- `sp`  
-- `rnaturalearth`  
-- `units`
+`Hmsc` `sf` `dplyr` `tidyr` `ggplot2` `ggrepel` `coda`  
 
 ## 🌊 Introduction
 
